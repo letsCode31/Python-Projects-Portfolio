@@ -31,8 +31,6 @@ Username: John, Doe Domain: gmail.com
 Username: Alice Domain: gmail.com
 
 ## Running the Program
-1. **Requirements**: This program requires Python 3.x to run.
-2. **Steps to Run**:
 - Download the Jupyter Notebook containing the code.
 - Open the notebook in Jupyter Notebook, JupyterLab, or Google Colab.
 - Run the cells and follow the prompts to input an email address.
