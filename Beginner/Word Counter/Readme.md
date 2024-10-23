@@ -8,3 +8,6 @@ This project demonstrates how to count the most frequent hashtags in an Instagra
 - **Load and parse the Instagram data file**: The program reads the dataset and extracts hashtags from the "Hashtags" column.
 - **Count occurrences of each hashtag**: Uses the `Counter` class from the `collections` module to count hashtag frequencies.
 - **Provide different analyses**:
+
+## Data Description
+The dataset (`Instagram data.csv`) taken from https://www.kaggle.com/datasets/amirmotefaker/instagram-data?resource=download 
